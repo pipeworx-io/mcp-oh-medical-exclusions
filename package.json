@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-oh-medical-exclusions",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Ohio Department of Medicaid (ODM) Provider Exclusion & Suspension List screening — fleet #3278, the seventh state exclusion pack after ny-omig-exclusions, ca-medical-exclusions, tx-medical-exclusions, fl-medical-exclusions, pa-medical-exclusions and ga-medical-exclusions.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "oh-medical-exclusions",
     "gatewaySlug": "oh-medical-exclusions",
-    "sourceHash": "v1-1bbbf662eb6d201f5ad76b3ea3199ec0114f72cded91e333ebfcde742c1f281b",
-    "sourceCommit": "b2c4383545bb35171d0ada2beb1c9c7168ea175e"
+    "sourceHash": "v1-adc87369fa4d4f07c09f308d6289c9e099156659a94176a92c192c5025deed36",
+    "sourceCommit": "bed7faa04e7276899b5e3870ef11c98625371f2b"
   }
 }
